@@ -5,9 +5,9 @@ A simple storage contract developed on hardhat.
 Try running some of the following tasks:
 
 ```shell
-npx hardhat help
-npx hardhat test
+yarn hardhat help
+yarn hardhat test
 REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
+yarn hardhat node
+yarn hardhat run scripts/deploy.js
 ```
