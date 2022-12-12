@@ -1,6 +1,6 @@
 # Simplestorage Contract
 
-A simple storage contract developed on hardhat.
+A simple storage contract developed on hardhat
 
 Try running some of the following tasks:
 
